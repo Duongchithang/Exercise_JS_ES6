@@ -1,0 +1,2 @@
+- Ở đây là những dạng xử lí logic cơ bản mà dev nào cũng cần phải biết 
+- Xử lí chuỗi , mảng , các hàm trong js theo cú pháp ES6.
